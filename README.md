@@ -12,8 +12,8 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="25">](https://t.me/rinaz0)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinaz-netiz&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinaz-netiz&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
