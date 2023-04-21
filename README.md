@@ -28,12 +28,6 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rinaz-netiz&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
-[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
-
-
-
-
-
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="25">](mailto:garaevribaz@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="25">](https://t.me/rinaz0)
 
